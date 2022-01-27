@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "questionme",
+			"path": "../../APP1/QuestionMe/qm_APP/questionme"
+		},
+		{
+			"name": "assets",
+			"path": "../QuestionMe/assets"
+		}
+	],
+	"settings": {}
+}
